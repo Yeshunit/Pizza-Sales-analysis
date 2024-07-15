@@ -5,11 +5,12 @@ This project involves analyzing pizza sales data to gain insights into sales pat
 This repository contains the analysis of pizza sales data using SQL. The analysis includes various insights derived from the data on orders, pizza types, and order details.
 
 ## Project Structure
+Download pizza_sales_zip file to extract all the raw data
 
-- `order_details.csv`: Contains details of each pizza order.
-- `orders.csv`: Contains information about the orders.
-- `pizza_types.csv`: Contains information about the types of pizzas.
-- `pizzas.csv`: Contains information about the pizzas.
+- `order_details.csv`: Contains details of each pizza order **(48,620 rows)**.
+- `orders.csv`: Contains information about the orders **(21,350 rows)**.
+- `pizza_types.csv`: Contains information about the types of pizzas **(32 rows)**.
+- `pizzas.csv`: Contains information about the pizzas **(96 rows)**.
 - `pizzahut_final_project.pdf`: The final report detailing the analysis.
 
 ## Analysis
@@ -37,6 +38,9 @@ The analysis was performed using SQL to extract meaningful insights from the dat
 4. **Revenue Analysis:**
    - Calculation of total revenue and revenue by different categories.
 
-## SQL Queries
+## Steps for Analysis:
+1. **Data Loading:** The CSV files were loaded into a SQL database.
+2. **Data Cleaning:** Ensured data integrity and handled any missing or inconsistent values.
+3. **Query Execution:** Ran SQL queries to extract insights such as total sales by pizza type, sales trends over time, and revenue calculations.
 
-Here are some of the SQL queries used in the analysis:
+
