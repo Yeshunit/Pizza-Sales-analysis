@@ -37,8 +37,9 @@ The analysis was performed using SQL to extract meaningful insights from the dat
 
 4. **Revenue Analysis:**
    - Calculation of total revenue and revenue by different categories.
+   - 
+![image](https://github.com/user-attachments/assets/353bf3ce-78a2-4d38-81b4-5e91e35959db)
 
-   ![Uploading image.png…]()
 
 
 ## Steps for Analysis:
