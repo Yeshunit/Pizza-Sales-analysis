@@ -38,6 +38,9 @@ The analysis was performed using SQL to extract meaningful insights from the dat
 4. **Revenue Analysis:**
    - Calculation of total revenue and revenue by different categories.
 
+   ![Uploading image.png…]()
+
+
 ## Steps for Analysis:
 1. **Data Loading:** The CSV files were loaded into a SQL database.
 2. **Data Cleaning:** Ensured data integrity and handled any missing or inconsistent values.
